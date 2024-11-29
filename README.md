@@ -1,4 +1,5 @@
 **Smart Grid Stability Model**
+
 This repository contains a machine learning model and a graphical user interface (GUI) designed to predict and explain the stability of a smart grid. The model uses various features related to power consumption and reaction times to determine whether a grid is stable or unstable. The project also includes a Tkinter-based GUI for easy file uploads and real-time predictions.
 
 **Project Overview**
